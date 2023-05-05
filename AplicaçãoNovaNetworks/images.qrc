@@ -1,0 +1,36 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Design sem nome (5).png</file>
+    <file>Saida.png</file>
+    <file>Entrada (10).png</file>
+    <file>Produtos (9).png</file>
+    <file>Menu (2).png</file>
+    <file>Produtos (8).png</file>
+    <file>Produtos (7).png</file>
+    <file>Produtos (6).png</file>
+    <file>Entrada (9).png</file>
+    <file>Produtos (5).png</file>
+    <file>Entrada (8).png</file>
+    <file>Entrada (7).png</file>
+    <file>Novo.png</file>
+    <file>Entrada (5).png</file>
+    <file>Entrada (4).png</file>
+    <file>Entrada (3).png</file>
+    <file>Entrada (3).png</file>
+    <file>Entrada (2).png</file>
+    <file>Produtos (4).png</file>
+    <file>Produtos (3).png</file>
+    <file>Entrada (1).png</file>
+    <file>Entrada.png</file>
+    <file>resources/Login.png</file>
+    <file>resources/Logo-novanetworks (1).png</file>
+    <file>resources/Logo-novanetworks.png</file>
+    <file>resources/losangulos2.jpg</file>
+    <file>resources/losangulos3.jpg</file>
+    <file>resources/losangulos5.jpg</file>
+    <file>resources/Menu.png</file>
+    <file>resources/Entrada.png</file>
+    <file>resources/Produtos (5).png</file>
+    <file>resources/Saida.png</file>
+  </qresource>
+</RCC>
